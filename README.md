@@ -1,7 +1,10 @@
 # Adi Cesula
 
 **`Full Stack Developer`**
-I'm a computer engineering graduate and starter as a Full Stack Developer. All coding projects are build from the ground up,
+
+I'm a computer engineering graduate and starter as a Full Stack Developer. All coding projects are build from the ground up.
+
+---
 
 ### 🧰 Languages and Tools
 
